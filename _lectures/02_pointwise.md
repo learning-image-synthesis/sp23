@@ -5,9 +5,9 @@ title: "Pointwise Processing and Image Filtering "
 tldr: "Transformations on images which can be done on raw pixel values as well as image filtering techniques"
 thumbnail: "/static_files/lectures/02.png"
 links:
-    - url: ""
+    - url: "/static_files/lectures/lecture2_point_processing_image_filtering.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9140004/download?download_frd=1"
       name: pptx
 
 hide_from_announcments: true
