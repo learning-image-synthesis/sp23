@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-01-30T16:00:00-05:00
+date: 2023-02-01T16:00:00-05:00
 title: "Data-Driven Graphics + image blending"
 tldr: "Cool papers in data-driven graphics."
 links:
