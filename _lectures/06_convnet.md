@@ -21,4 +21,5 @@ Reading list:
 - [Learning to Generate Chairs, Tables and Cars with Convolutional Networks](https://arxiv.org/abs/1411.5928), Dosovitskiy et al., PAMI 2017 (CVPR 2015)
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 - [Colorful Image Colorization](http://richzhang.github.io/colorization/), Zhang et al., ECCV 2016.
-- [Deep Learning](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf), LeCun, Bengio, and Hinton, Nature 2015. 
+- [Deep Learning](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf), LeCun, Bengio, and Hinton, Nature 2015.
+- Notes on Backpropagation and CNNs: [Olah](http://colah.github.io/posts/2015-08-Backprop/) and [231n](https://cs231n.github.io/neural-networks-1/)

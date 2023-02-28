@@ -20,7 +20,7 @@ mathjax: true
 hide_from_announcments: true
 ---
 
-{% include image.html url="/static_files/assignments/hw1/teaser.jpg" width=800 align="center" %}
+{% include image.html url="/static_files/assignments/hw2/penguins_with_shadow2.jpg" width=800 align="center" %}
 <!-- ## Award Winners!
 We've completed the homework, grading, and voting, and the winner of our best assignment is [Riyaz Panjwani](https://www.andrew.cmu.edu/course/16-726-sp22/projects/rpanjwan/proj2/)!
 
@@ -35,10 +35,7 @@ Here we take the following approach: The insight we will use is that people ofte
 
 We can formulate our objective as a least squares problem. Given the pixel intensities of the source image "s" and of the target image "t", we want to solve for new intensity values "v" within the source region "S":
 
-{% raw %}
-$$ \newcommand{\argmin}{arg min} $$
-$$ \boldsymbol{v} = \argmin_{\boldsymbol{v}}\sum_{i \in S, j \in N_i \cap S}((v_i - v_j) - (s_i - s_j))^2 + \sum_{i\in S, j \in N_i \cap \neg S}((v_i - t_j) - (s_i - s_j))^2. $$
-{% endraw %}
+{% raw %} $$ \newcommand{\argmin}{arg min} $$ $$ \boldsymbol{v} = \argmin_{\boldsymbol{v}}\sum_{i \in S, j \in N_i \cap S}((v_i - v_j) - (s_i - s_j))^2 + \sum_{i\in S, j \in N_i \cap \neg S}((v_i - t_j) - (s_i - s_j))^2. $$ {% endraw %}
 
 Here, each "i" is a pixel in the source region "S", and each "j" is a 4-neighbor of "i".  Each summation guides the gradient values to match those of the source region.  In the first summation, the gradient is over two variable pixels; in the second, one pixel is variable and one is in the fixed target region.
 
