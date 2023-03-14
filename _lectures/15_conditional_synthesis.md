@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-03-16T16:00:00-05:00
+date: 2023-03-15T16:00:00-05:00
 title: "Conditional Image Synthesis (Student Presentation)"
 tldr: ""
 hide_from_announcments: true
