@@ -9,14 +9,12 @@ due_event:
     date: 2023-03-01T23:59:00-5:00
     description: 'Assignment #2 due'
 mathjax: true
-# runnerup:
-#     - name: Tomas Cabezon Pedroso
-#       link: https://www.andrew.cmu.edu/course/16-726-sp22/projects/tcabezon/proj2/
-#     - name: Harry Freeman
-#       link: https://www.andrew.cmu.edu/course/16-726-sp22/projects/hfreeman/proj2/
-# winner: 
-#     - name: Riyaz Panjwani
-#       link: https://www.andrew.cmu.edu/course/16-726-sp22/projects/rpanjwan/proj2/
+runnerup:
+    - name: Nasrin Kalanat
+      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/nkalanat/proj2/
+winner: 
+    - name: Shruti Nair
+      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shrutina/proj2/
 hide_from_announcments: true
 ---
 
