@@ -6,10 +6,10 @@ thumbnail: "/static_files/lectures/lecture_11.png"
 tldr: "How to control the style and content of your image with Deep Learning"
 hide_from_announcments: true
 links:
-    - url: "https://canvas.cmu.edu/files/9344750/download?download_frd=1"
-      name: pptx
     - url: "/static_files/lectures/lecture12_style_and_content.pdf"
       name: pdf
+    - url: "https://canvas.cmu.edu/files/9344750/download?download_frd=1"
+      name: pptx
 ---
 Reading List:
 - [Separating Style and Content, Tenenbaum & Freeman, Neurips 1996](https://proceedings.neurips.cc/paper/1996/hash/70222949cc0db89ab32c9969754d4758-Abstract.html)

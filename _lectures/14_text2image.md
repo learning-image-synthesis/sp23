@@ -6,9 +6,9 @@ title: "Text-to-Image Synthesis"
 tldr: "How to synthesize a photorealistic image given a text description"
 hide_from_announcments: true
 links:
-    - url: ""
+    - url: "/static_files/lectures/lecture13_text2image.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9389694/download?download_frd=1"
       name: pptx
 ---
 Reading List:
