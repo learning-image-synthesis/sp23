@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-03-27W8:00:00+1:20
-title: "Generative Models (student presentation)"
+title: "Image Editing (student presentation)"
 hide_from_announcments: true
 ---
 Reading List:

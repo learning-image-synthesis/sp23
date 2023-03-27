@@ -4,9 +4,9 @@ date: 2023-03-22T16:00:00-05:00
 title: "Image Editing and Optimization (part II)"
 hide_from_announcments: true
 links:
-    - url: ""
+    - url: "/static_files/lectures/lecture15_image_editing_optimization_part2.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9442641/download?download_frd=1"
       name: pptx
 ---
 Reading List:
