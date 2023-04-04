@@ -127,8 +127,9 @@ where \\(*\\) is the Hadamard product, \\(M\\) is the mask, and \\(S\\) is the s
 Draw some cats and see what your model can come up with! Experiment with sparser and denser sketches and the use of color. Show us a handful of example outputs along with your commentary on what seems to have happened and why.
 
 ## Bells & Whistles (Extra Points)
+Max of **15** points from the bells and whistles.
 
-### Stable Diffusion Model
+### Stable Diffusion Model (10pts)
 
 * Implement [Stable Diffusion](https://arxiv.org/abs/2112.10752). Download the [skeleton file](/static_files/assignments/hw5/starter.zip).
 
@@ -147,7 +148,7 @@ The an example output looks like this:
 
 ### Other B&W
 
-Max of **15** points from the bells and whistles.
+
 - Implement additional types of constraints. (3pts each): e.g., sketch/shape constraint and warping constraints mentioned in the iGAN paper, or texture constraint using a style loss. 
 - Train a neural network to approximate the inverse generator (4pts) for faster inversion and use the inverted latent code to initialize your optimization problem (1 additional point).
 - Develop a cool user interface and record a UI demo (4 pts). Write a cool front end for your optimization backend. 
