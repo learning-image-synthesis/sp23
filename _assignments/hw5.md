@@ -137,7 +137,7 @@ To begin this assignment, you should first install all the requirements using th
 
 To run the model, you may use the following prompt, `python img2img.py --prompt "A fantasy landscape, trending on artstation" --init-img assets/stable-samples/img2img/sketch-mountains-input-512.jpg --strength 0.8 --scale 15`. You can adjust the `strength` and `scale` as you wish.
 
-You can try using your own sketch as the input image, with a higher resolution. It is better to have a highe resolution for the desired result. make sure the width and the height are a multiple of 64.
+You can try using your own sketch as the input image, with a higher resolution. It is better to have higher resolution input images for the desired result. make sure the width and the height are a multiple of 64.
 
 These are some examples. 
 Here is the input:
