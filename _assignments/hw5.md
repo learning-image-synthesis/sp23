@@ -38,7 +38,7 @@ An example of grumpy cat outputs generated from sketch inputs using this assignm
 ## Introduction
 In this assignment, you will implement a few different techniques that require you to manipulate images on the manifold of natural images. First, we will invert a pre-trained generator to find a latent variable that closely reconstructs the given real image. In the second part of the assignment, we will take a hand-drawn sketch and generate an image that fits the sketch accordingly.
 
-Once you download the starter code, you may download data and model file [here](https://drive.google.com/file/d/1WOwjOEPRKDuuKY216KlpA67Si0sf5Wo4/view?usp=sharing). Unzip the zip file in the starter code folder, you should be seeing then `pretrained/` and `data/' folders.
+Once you download the starter code, you may download data and model file [here](https://drive.google.com/file/d/1b6K26Hc6H-E0pFOe5tKpgslOshYI4cgc/view?usp=share_link). Unzip the zip file in the starter code folder, you should be seeing then `pretrained/` and `data/' folders.
 
 You can try each problem with vanilla gan (in `vanilla/`) or a StyleGAN (in `stylegan`).
 
