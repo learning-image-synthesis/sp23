@@ -131,7 +131,7 @@ Max of **15** points from the bells and whistles.
 
 ### Stable Diffusion Model (10pts)
 
-* Implement [Stable Diffusion](https://arxiv.org/abs/2112.10752). Download the [skeleton file](/static_files/assignments/hw5/starter.zip).
+* Implement [Stable Diffusion](https://arxiv.org/abs/2112.10752). Download the [skeleton file](https://drive.google.com/file/d/1mBEonLokhdcgEMBJM0OVOMnWjfFbPyCd/view?usp=share_link).
 
 To begin this assignment, you should first install all the requirements using the following prompt `conda env create -f environment.yaml` and activate the environment with `conda activate ldm`. You should also be downloading the pretrained model [here](https://huggingface.co/runwayml/stable-diffusion-v1-5). You should place this checkpoint file in hw5-ec/models/ldm/stable-diffusion-v1/. 
 
