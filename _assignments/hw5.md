@@ -142,7 +142,7 @@ You can try using your own sketch as the input image, with a higher resolution. 
 These are some examples. 
 Here is the input:
 {% include image.html url="/static_files/assignments/hw5/sketch-cat-512.png" %}
-The an example output looks like this:
+An example output looks like this:
 {% include image.html url="/static_files/assignments/hw5/grid-0002.png" %}
 
 
