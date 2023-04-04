@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2022-04-04T4:00:00-5:00
+date: 2023-04-03T4:00:00-5:00
 title: 'Assignment #5 - GAN Photo Editing'
 thumbnail: /static_files/assignments/hw5/thumb.gif
 attachment: /static_files/assignments/hw5/starter.zip
