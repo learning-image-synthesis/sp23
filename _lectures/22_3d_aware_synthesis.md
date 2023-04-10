@@ -6,9 +6,9 @@ thumbnail: "/static_files/lectures/novel_view_synthesis.png"
 tldr: "Techniques for synthesizing an image from different camera viewpoints"
 hide_from_announcments: true
 links:
-    - url: ""
+    - url: "/static_files/lectures/lecture17_3D_synthesis_part1.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9483549/download?download_frd=1"
       name: pptx
 ---
 Reading List:

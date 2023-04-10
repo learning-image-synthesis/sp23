@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-04-05W8:00:00+1:20
-title: "Generative Models (student presentation)"
+title: "Image Editing and Face Modeling (student presentation)"
 hide_from_announcments: true
 ---
 Reading List:
