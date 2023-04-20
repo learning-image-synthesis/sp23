@@ -6,9 +6,9 @@ thumbnail: "/static_files/lectures/video_syn.png"
 tldr: "Video Synthesis and Editing"
 hide_from_announcments: true
 links:
-    - url: ""
+    - url: "/static_files/lectures/Lecture19_video_synthesis.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9522866/download?download_frd=1"
       name: pptx
 ---
 Reading List:

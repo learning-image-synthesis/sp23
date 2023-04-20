@@ -27,7 +27,7 @@ You can work in groups of 1-3 people. We'll expect the standard of work to be ro
 
 ## Important Dates
 * __3/27:__ Project Proposal Due 
-* __TBA:__ Presentation Date 
+* __4/26:__ Presentation Date 
 * __TBA:__ Project Code and Website Due 
 
 __Note:__ We will not allow late days on the project.

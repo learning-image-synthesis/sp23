@@ -6,9 +6,9 @@ thumbnail: "/static_files/lectures/EG3D.png"
 tldr: "Synthesizing an image of a certain object category from different camera viewpoints"
 hide_from_announcments: true
 links:
-    - url: ""
+    - url: "/static_files/lectures/Lecture18_3D_synthesis_part2.pdf"
       name: pdf
-    - url: ""
+    - url: "https://canvas.cmu.edu/files/9514650/download?download_frd=1"
       name: pptx
 ---
 Reading List:
