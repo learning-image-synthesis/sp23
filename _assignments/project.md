@@ -1,11 +1,11 @@
 ---
 type: assignment
 date: 2023-03-13T4:00:00-5:00
-title: 'Final Project proposal'
+title: 'Final Project'
 thumbnail: /static_files/assignments/project/teaser.png
 due_event:
     type: due
-    date: 2023-03-27T23:59:00-5:00
+    date: 2023-05-08T23:59:00-5:00
     description: 'Final Project Proposal Due'
 mathjax: true
 project: true
@@ -28,7 +28,7 @@ You can work in groups of 1-3 people. We'll expect the standard of work to be ro
 ## Important Dates
 * __3/27:__ Project Proposal Due 
 * __4/26:__ Presentation Date 
-* __TBA:__ Project Code and Website Due 
+* __5/8:__ Project Code and Website Due 
 
 __Note:__ We will not allow late days on the project.
 
