@@ -18,6 +18,39 @@ This image was taken from [State of the Art on Neural Rendering](https://arxiv.o
 
 --
 
+
+Title | Authors | link
+---|---| ---
+Generative Co-learning for Image Segmentation | Robert Skinker, Eric Youn | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/rskinker/projfinal/)
+Concept Ablation in Diffusion Models | Anusha Kamath, Naveen Suresh, Srikumar Subramanian | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/naveensu/project/)
+Generative Models for Illumination Recovery in Low Light |  Adithya Praveen, Lulu Ricketts, Shruti Nair | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/apraveen/project/)
+Text-to-Style Reconstruction for Diffusion Style Transfer | Shun Tomita | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/stomita/project/)
+MaskGIT-Edit | Joel Ye | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/joelye/project/)
+Supporting Cultural Representation in Text-to-Image Generation | Zhixuan Liu, Beverley-Claire Okogwu | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/zhixuan2/project/)
+TellUrTale | Eileen Li, Simon Seo, Yu-Hsuan Yeh | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/myunggus/project/)
+Controllable LiDAR Scene Generation with Diffusion Models |  Haoxi Ran | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/hran/project/)
+Spatial-Temporal Domain Adaptation via Cycle-Consistent Adverserial Network | Nasrin Kalanat | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/nkalanat/project/)
+Visual Model Diagnosis by Style Counterfactual Synthesis | Jinqi Luo, Yinong Wang | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/yinongwa/project/)
+Contrastive Unpaired MRI Harmonization | Maxwell Reynolds | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/maxwellr/project/)
+Temporally Consistent Video Retargeting without Dependence on Sequential Data | Shihao Shen, Abishek Pavani | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/shihaosh/project/)
+Let's try and pose? | Ninaad Rao, Anusha Rao, Greeshma Karanth | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/grk/project/)
+Ancient to Modern Photos using GANs | Akhil Eppa, Roshini Rajesh Kannan, Sanjana Moudgalya | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/aeppa/project/)
+Erase-Anything with Text Prompts | Sayali Deshpande | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/sayalidd/project/)
+Language-driven Human Pose Animation | Lia Coleman | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/liac/proj_final/)
+Manifold Contrastive Learning for Unpaired Image-to-image Translation | Shen Zheng, Qiyu Chen | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/qiyuc/project/)
+Improving Text-to-Image Synthesis with GigaGAN and Novel Filter Bank | Zhiyi Shi, Linji Wang | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/linjiw/project/)
+GANs to Understand How the Human Brain Makes Sense of Natural Scenes | Tejas Bana | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/tbana/project/)
+Real-Time Style Transfer for VR Experiences | Mitchell Foo | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/mfoo/project/)
+Stable Diffusion for UI Generation | Faria Huq | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/fhuq/project/)
+Latent Light Field Diffusion for 3D Generation | Ruihan Gao, Hanzhe Hu | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/hanzheh/project/)
+Neural Object Relighting | George Ralph, William Giraldo | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/gdr/project/)
+Controllable Video Generation with Stable Diffusion | Haoyang He | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/hhe2/project/)
+Multi-Modal Instruction Image Editing | Tiancheng Zhao, Chia-Chun Hsieh | [link](https://www.andrew.cmu.edu/course/16-726-sp23/projects/tianchen/project/)
+
+<br/>
+Congratulations to all students for their amazing works! 
+<br/>
+
 ## Introduction
 
 Welcome to the final project for the class. The purpose is to show us something novel based on the materials we cover in the class. You can try a new modification of a method, a particularly novel application, or a close analysis of the properties of an existing method. We'll read over your project proposals and give feedback on them early on so that we can get awesome results on cool problems! Feel free to come to our office hours to discuss the progress and challenges over the rest of the semester. We're happy to help!
